@@ -24,7 +24,7 @@
     {
       "type": "Feature",
       "properties": {
-        "データ": "fa"
+        "データ": "f"
       },
       "geometry": {
         "type": "Polygon",
